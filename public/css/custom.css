@@ -1,0 +1,59 @@
+body{
+background-color: #0F6ED2;
+color: #FFFF;
+}
+
+/* .body_aquatic{
+  background-color: #161A58;
+}
+
+.body_electric{
+  background
+} */
+
+#topnav{
+    /* overflow: hidden; */
+    background-color:  #276C69;
+}
+
+#logo{
+	float: left;
+	padding: 0;
+}
+a{
+	color: white;
+}
+.imageBlock{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+button.submit {
+  float: right;
+  color: black;
+}
+
+
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 45px;
+  line-height: 30px; /* Vertically center the text there */
+  background-color: #E3DCCD;
+  color: #033C5A;
+}
+  a{
+  color: #033C5A;
+  font-weight: bold;
+  text-decoration: underline;
+  }
+  a:visited{
+    font-weight:bold;
+     color:white;
+     text-decoration: underline;
+  }
